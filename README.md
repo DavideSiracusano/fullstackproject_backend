@@ -1,4 +1,4 @@
-## webapp
+## Webapp
 This project is the back-end part of the S2I University master's program, using Node.
 
 ## How it works
